@@ -8,7 +8,7 @@
 
 * **도구가 방해되지 않아요.** 많은 패널과 아이콘으로 코딩 환경을 난잡하게 만드는 대신, 브라켓스의 퀵 에딧 UI는 문맥별 코드와 도구를 인라인으로 제공합니다.
 
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://github.com/chanseunglee0/brackets/blob/master/Images/brackets-ui-thumb.jpg))
 
 * **브라우저와 동기화돼요.** 라이브 프리뷰를 통해 브라켓스는 브라우저와 직접 연동되어 코드 수정 사항을 즉시 반영하고, 원본 소스 코드와 브라우저 뷰 사이를 쉽게 이동할 수 있습니다.
 * **스스로 만들어요.** 브라켓스는 오픈 소스로 제공되며, HTML, CSS 및 JavaScript로 구축되어 웹을 위한 최고의 코드 편집기를 함께 만들 수 있습니다. [도움을 줄 수 있어요](https://github.com/adobe/brackets/blob/master/CONTRIBUTING.md).
