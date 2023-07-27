@@ -11,7 +11,14 @@
 ![brackets-ui-thumb](https://github.com/chanseunglee0/brackets/assets/82293647/dfcafbda-ad8d-4716-9c9d-9aa4c3b09c58)
 
 * **브라우저와 동기화돼요.** 라이브 프리뷰를 통해 브라켓스는 브라우저와 직접 연동되어 코드 수정 사항을 즉시 반영하고, 원본 소스 코드와 브라우저 뷰 사이를 쉽게 이동할 수 있습니다.
+
+![5-2-browsers-free-png-image](https://github.com/chanseunglee0/brackets/assets/82293647/ab78de1f-a795-4c62-9f22-613b0f3e6832)
+
+
 * **스스로 만들어요.** 브라켓스는 오픈 소스로 제공되며, HTML, CSS 및 JavaScript로 구축되어 웹을 위한 최고의 코드 편집기를 함께 만들 수 있습니다. [도움을 줄 수 있어요](https://github.com/adobe/brackets/blob/master/CONTRIBUTING.md).
+
+![brackets-quick-edit-thumb](https://github.com/chanseunglee0/brackets/assets/82293647/82916e1e-4b6d-45af-b4b8-33fb37bab5f0)
+
 
 브라켓스는 이미 버전 1에 도달했지만, 여기서 멈추지 않아요. 우리는 [트렐로 보드](http://bit.ly/BracketsTrelloBoard)에 많은 기능 아이디어가 있으며, 브라켓스에 추가하고자 하는 혁신적인 웹 개발 워크플로도 준비 중이에요. 따라서 브라켓스를 시도해보시고 어떻게 하면 여러분의 최애 편집기로 만들 수 있을지 알려주세요.
 
@@ -23,6 +30,8 @@
 
 최신 안정 버전의 Mac, Windows 및 Linux (Debian/Ubuntu)용 설치 프로그램은 [여기에서 다운로드](http://brackets.io/)할 수 있습니다.
 
+![hjhk](https://github.com/chanseunglee0/brackets/assets/82293647/248ee3c8-e9c9-4d4c-bd7d-c2e48370623d)
+
 #### 사용 방법
 
 기본적으로 브라켓스는 간단한 "시작하기" 컨텐츠가 들어 있는 폴더를 엽니다.
@@ -30,6 +39,8 @@
 
 브라켓스 대부분은 사용법이 직관적일 것이지만, 퀵 에딧과 라이브 프리뷰와 같은 독특한 기능에 대한 정보는 [브라켓스 사용 방법](http://github.com/adobe/brackets/wiki/How-to-Use-Brackets)을 참고하세요.
 또한 각 버전에서 추가된 새로운 기능과 알려진 문제에 대한 정보는 [릴리스 노트](http://github.com/adobe/brackets/wiki/Release-Notes)를 확인하세요.
+
+![minnh](https://github.com/chanseunglee0/brackets/assets/82293647/92bb6b31-f589-4fa7-b245-e3598afa8b9d)
 
 브라켓스에 내장된 핵심 기능 외에도 다양한 유용한 기능을 추가하는 확장 개발자들이 크고 성장하는 커뮤니티가 있습니다.
 사용 가능한 확장 기능 목록은 [브라켓스 확장 레지스트리](https://registry.brackets.io/)를 확인하세요.
