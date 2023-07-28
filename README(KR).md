@@ -56,15 +56,25 @@
 #### 버그를 발견했어요!
 
 반복 가능한 버그를 발견하고 [문제 해결](https://github.com/adobe/brackets/wiki/Troubleshooting) 팁으로 문제를 해결할 수 없는 경우, 먼저 [기존 문제](https://github.com/adobe/brackets/issues)를 검색해보세요.
+
+![fgmgh](https://github.com/chanseunglee0/brackets/assets/82293647/5c2fedb6-6af4-4fde-a533-835802626aaa)
+
 문제 발생을 일관되게 재현하는 단계, 실제 결과와 예상 결과, 스크린샷, OS 및 브라켓스 버전 번호를 포함시켜주세요.
 확장 기능을 모두 비활성화하여 문제가 핵심 브라켓스 버그인지 확인하세요.
 [좋은 버그 보고 가이드라인](https://github.com/adobe/brackets/wiki/How-to-Report-an-Issue)을 더 읽어보세요.
-
 
 #### 새로운 제안이 있어요! 하지만 프로그래밍을 모르겠어요!
 
 기능 제안을 하기 전에 먼저 [트렐로 보드](http://bit.ly/BracketsBacklog)를 확인하여 이미 있는지 확인하고 있다면 추천해주세요. 그렇지 않다면 위와 같이 이슈로 제출해주세요. 우리가 대신 기능 백로그로 이동시켜드리겠습니다.
 
+![mnfm](https://github.com/chanseunglee0/brackets/assets/82293647/fab02022-090a-440f-b8db-0ebe82041cae)
+
+#### 트렐로 보드가 뭔가요?
+
+Trello는 팀이 함께 협업적이고 생산적이며 체계적인 방식으로 아이디어를 도출하고 계획하며 관리하고 축하하는 시각적인 작업 관리 도구입니다.
+목록이나 스프레드시트에서 목록을 복사하여 새 Trello 카드에 붙여넣음으로써 한 번에 여러 개의 카드를 보드에 쉽게 추가할 수 있습니다.
+보드는 정보를 추적하는 장소를 나타내며 주로 대규모 프로젝트, 팀 또는 워크플로우에 사용됩니다.
+목록은 카드 또는 특정 작업 또는 정보를 진행 상태별로 조직화하는 데 사용됩니다. 목록은 각 단계별로 카드를 이동시켜 시작부터 끝까지 프로세스를 거치는 워크플로우를 만드는 데 사용되거나 단순히 아이디어와 정보를 추적하는 장소로서 작용할 수 있습니다.
 
 #### 코드 작업에 도움을 주고 싶어요!
 
@@ -75,13 +85,29 @@
 브라켓스는 HTML/CSS/JS로 구축되었지만 현재는 데스크톱 애플리케이션으로 실행되며 로컬 파일에 액세스할 수 있도록 얇은 네이티브 쉘 안에서 실행됩니다. (브라우저에서 index.html 파일을 열려고 하면 아직 작동하지 않습니다.)
 브라켓스의 네이티브 쉘은 별도의 저장소인 [adobe/brackets-shell](https://github.com/adobe/brackets-shell/)에 있습니다.
 
+![nfgffgb](https://github.com/chanseunglee0/brackets/assets/82293647/78587b33-ed00-4fdd-992d-435cd3644713)
+
 
 브라켓스의 현황을 추적하고 싶어요!
 ----------------------------------------------
 
 느낌표는 아마 필요하지 않을 수 있지만, 여러분의 열정을 좋아합니다.
 
-#### 브라켓스는 무엇을 다음으로 작업하고 있나요?
+#### 다음으로 Brackets에서 무엇을 작업 중인가요?
 
-* [기능 백로그](http://bit.ly/BracketsBacklog)에서 오른쪽의 열(개발부터 시작)에는 현재 작업 중인 기능이 나열되어 있습니다.
-  "준비"에는 다
+- [기능 대기열](http://bit.ly/BracketsBacklog)에서 오른쪽 열("Development"부터 시작)은 현재 작업 중인 기능들을 나열하고 있습니다. "Ready"에 표시된 내용이 다음에 작업할 내용입니다.
+- [GitHub 활동 스트림](https://github.com/adobe/brackets/pulse)을 확인하세요.
+- [Waffle Kanban 보드](https://waffle.io/adobe/brackets): [![Stories in Ready](https://badge.waffle.io/adobe/brackets.svg?label=ready&title=Ready)](http://waffle.io/adobe/brackets)에서 작업 아이템은 다음 순서대로 진행됩니다. 전체 개발 프로세스는 [개발자 가이드](https://github.com/adobe/brackets/wiki/Brackets-Developers-Guide)에 자세히 설명되어 있습니다.
+
+#### 연락처 정보
+
+- **이메일:** [admin@brackets.io](mailto:admin@brackets.io)
+- **슬랙:** [Brackets on Slack](https://brackets.slack.com) (가입을 원하시면 [admin@brackets.io](mailto:admin@brackets.io)로 `slack registration request`라는 제목의 이메일을 보내시고 등록하고자 하는 이메일 주소를 명시해 주세요).
+- **개발자 메일링 리스트:** http://groups.google.com/group/brackets-dev
+- **트위터:** [@brackets](https://twitter.com/brackets)
+- **블로그:** http://blog.brackets.io/
+- **IRC:** [#brackets on freenode](http://webchat.freenode.net/?channels=brackets)
+
+---
+
+이 프로젝트는 [공동 기여자 행동 강령](https://github.com/adobe/brackets/blob/master/CODE_OF_CONDUCT.md)으로 제공됩니다. 이 프로젝트에 참여함으로써 해당 강령을 준수하는 데 동의하게 됩니다.
